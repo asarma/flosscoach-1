@@ -1,0 +1,23 @@
+<div class="page-content">
+  <!-- Panel -->
+  <div class="panel">
+    <div class="panel-body">
+      <%= form_tag users_path, :method => 'get', class: "page-search-form" do %>
+  
+        <% end %>
+
+
+      <hr>
+      <div class="nav-tabs-horizontal nav-tabs-animate">
+        <div class="tab-content">
+          <div class="tab-pane animation-fade active" role="tabpanel" aria-expanded="true">
+            <ul class="list-group">
+              <%= render @users %>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Panel -->
+</div>
