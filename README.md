@@ -17,13 +17,12 @@ FLOSScoach is build using:
 - [Ruby on Rails](https://github.com/rails/rails)
 - [PostgreSQL](https://www.postgresql.org/)
 - [GitLab CI](https://about.gitlab.com/product/continuous-integration/)
+- [XML] (https://www.w3.org/XML/)
 
 ## Code style
 We recommend using [Rails-Style-Guide](https://github.com/rubocop-hq/rails-style-guide) as a coding style
 
 ## Contribute
 Want to contribute and not sure how to start? Here's our documentation for [contributions](https://gitlab.com/flosscoach/flosscoach/blob/master/contribute.md)
-
-We are happy to welcome new contributors.
 
 
